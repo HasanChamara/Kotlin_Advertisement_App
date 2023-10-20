@@ -2,4 +2,4 @@
 
 Kotlin Ad Application
 All CRUD Operations
-Integrate Payment Gateway
+Integrate Payhere Payment Gateway
